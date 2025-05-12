@@ -8,9 +8,6 @@ I am a full stack developer eager to learn technologies used in the whole softwa
 
 *   🌍  I'm based in Paris, France
 *   ✉️  You can contact me at [younes.ibizzi@gmail.com](mailto:younes.ibizzi@gmail.com)
-*   🧠  I'm learning Microservices with Spring & Kubernetes.
-*   🤝  I'm open to collaborating on Spring projects.
-
 Skills 
 -------
 <p align="left">
